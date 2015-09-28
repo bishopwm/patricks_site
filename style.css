@@ -1,0 +1,64 @@
+* {
+	font-family: 'Poiret One', cursive;
+}
+
+.background {
+	width: 100%;
+	height: 52em;
+	background-image: url('images/newyork.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: -25px;
+	opacity: 0.4;
+}
+
+.heading_main {
+	margin-top: -48em;
+	color: black;
+	text-align: center;
+	letter-spacing: 0.9em;
+}
+
+.heading_text {
+	font-size: 7em;
+	font-weight: bold;
+}
+
+.title_text {
+	font-size: 3em;
+	color: maroon;
+	font-weight: bold;
+	letter-spacing: 0.15em;
+}
+
+.location_text {
+	font-size: 6em;
+	color: black;
+	font-weight: bold;
+}
+
+.avatar_paragraph {
+	margin-top: 5em;
+}
+
+.logo-list {
+	list-style-type: none;
+	margin-left: 12em;
+}
+
+.logo-list-item {
+	display: inline;
+}
+
+#linkedin {
+	width: 3.5em;
+}
+#angellist {
+	width: 3em;
+}
+#twitter {
+	width: 3.5em;
+}
+#email {
+	width: 3.5em;
+}
