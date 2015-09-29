@@ -24,11 +24,14 @@
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	margin-top: -25px;
-	opacity: 0.4;
+	opacity: 0.3;
 }
 
 .about-me {
 	color: black;
+	font-size: 1.3em;
+	font-weight: bold;
+	letter-spacing: 0em;
 }
 
 .heading_main {
