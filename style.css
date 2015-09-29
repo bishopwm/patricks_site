@@ -2,6 +2,7 @@
 	font-family: 'Poiret One', cursive;
 }
 
+
 .nav-list-item {
 	padding-right: 2em;
 	font-size: 1.2em;
@@ -14,11 +15,11 @@
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	margin-top: -25px;
-	opacity: 0.4;
+	opacity: 0.5;
 }
 
 .heading_main {
-	margin-top: -48em;
+	margin-top: -45em;
 	color: black;
 	text-align: center;
 	letter-spacing: 0.9em;
